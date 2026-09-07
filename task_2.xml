@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<result>
+     <item>
+          <id>661</id>
+          <name>Room #661</name>
+          <avg_age>13.51</avg_age>
+     </item>
+     <item>
+          <id>913</id>
+          <name>Room #913</name>
+          <avg_age>21.47</avg_age>
+     </item>
+     <item>
+          <id>111</id>
+          <name>Room #111</name>
+          <avg_age>33.42</avg_age>
+     </item>
+     <item>
+          <id>957</id>
+          <name>Room #957</name>
+          <avg_age>34.83</avg_age>
+     </item>
+     <item>
+          <id>773</id>
+          <name>Room #773</name>
+          <avg_age>36.87</avg_age>
+     </item>
+</result>
